@@ -1,0 +1,5 @@
+1. An Operating system is a program that manages the operation of a compute system.
+2. Linux uses full advantage of the IA-32 protected mode.The Linux kernel was entirely separate from the user interface, and it was protected from damage due to m alfunctioning programs elsewhere in the system.
+3. The 8080 was an 8-bit CPU, meaning it processed 8 bits of information at a time. However, it had 16 address lines coming out of it.
+6. 16 address lines will adress 64K bytes. (0 to 65,535)
+7. The 8080 can have 8 bits or 1 byte of data at each address. This means that the 8080 can  have at most 64K bytes of memory attached to it.
